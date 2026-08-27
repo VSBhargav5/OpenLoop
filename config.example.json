@@ -1,0 +1,10 @@
+{
+  "me": "Bhargav",
+  "aliases": {
+    "alex k": "Alex",
+    "jk": "Jordan"
+  },
+  "stale_days": 14,
+  "min_confidence": 0.35,
+  "digest_days": 7
+}
